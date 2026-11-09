@@ -1,0 +1,23 @@
+# Old service pages (before the 3 Nov 2026 restructure) go to their new home.
+/services/ats-resume-writing/      /services/job-search-support/     301
+/services/linkedin-optimization/   /services/job-search-support/     301
+/services/jd-based-cv/             /services/job-search-packages/    301
+/services/recruiter-mapping/       /services/job-search-packages/    301
+/services/job-application-service/ /services/job-search-packages/    301
+/services/ats-resume-writing       /services/job-search-support/     301
+/services/linkedin-optimization    /services/job-search-support/     301
+/services/jd-based-cv              /services/job-search-packages/    301
+/services/recruiter-mapping        /services/job-search-packages/    301
+/services/job-application-service  /services/job-search-packages/    301
+
+# The Contact page was replaced by Get started (6 Nov 2026).
+/contact/                          /start/                           301
+/contact                           /start/                           301
+
+# Success Stories became Reviews (6 Nov 2026).
+/success-stories/                  /reviews/                         301
+/success-stories                   /reviews/                         301
+
+# Portfolio Creation became Portfolio Website (6 Nov 2026).
+/services/portfolio-creation/      /services/portfolio-website/      301
+/services/portfolio-creation       /services/portfolio-website/      301
