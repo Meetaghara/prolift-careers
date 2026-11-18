@@ -4,7 +4,7 @@
 4:I[2971,["$2","$3"],"Header"]
 5:I[39756,["$2","$3"],"default"]
 6:I[37457,["$2","$3"],"default"]
-7:"/_next/static/chunks/2ikkievf5ujrc.js"
+7:"/_next/static/chunks/2bc6ed8977904.js"
 8:I[22016,["$2","$3","$7"],""]
 :HL["/_next/static/chunks/3kf1h61swn_0b.css","style"]
 :HL["/_next/static/chunks/0fd98rhh34tke.css","style"]
